@@ -1,0 +1,8 @@
+psutil
+argparse
+user_agent
+selenium-wire
+requests[security]
+undetected_chromedriver
+webdriver_manager
+rand
